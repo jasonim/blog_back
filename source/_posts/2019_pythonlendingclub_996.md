@@ -1,6 +1,6 @@
 
 title: 2019 Python风控建模实战LendingClub全套视频教程
-date: Sun Jan 19 2020 13:23:35 GMT+0800 (CST)    
+date: Sun Jan 19 2020 13:39:07 GMT+0800 (CST)    
 categories: baidu
 ---
 

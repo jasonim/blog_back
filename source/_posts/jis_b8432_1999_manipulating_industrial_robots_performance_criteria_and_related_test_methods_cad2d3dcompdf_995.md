@@ -1,6 +1,6 @@
 
 title: JIS B8432-1999 Manipulating industrial robots-Performance criteria and related test methods cad2d3d.com.pdf
-date: Sun Jan 19 2020 13:23:35 GMT+0800 (CST)    
+date: Sun Jan 19 2020 13:39:07 GMT+0800 (CST)    
 categories: baidu
 ---
 

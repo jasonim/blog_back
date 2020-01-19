@@ -1,0 +1,14 @@
+
+title: MAGIX.ACID.Pro
+date: Sun Jan 19 2020 13:39:07 GMT+0800 (CST)    
+categories: baidu
+---
+
+# MAGIX.ACID.Pro
+size: 686.90 MB
+ 
+ 
+|- ACID_8.0.7_x64.rar - 364.90 MB
+|- ACID_8.0.7.rar - 322.00 MB
+
+[How to download](https://bpcam.bemobtrk.com/go/2ceec3aa-1ca2-46d6-b9ff-aaa5c184517c?jno=3673)

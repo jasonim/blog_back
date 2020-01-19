@@ -1,6 +1,6 @@
 
 title: 南京大学 Abnormal Effect of Sonic Metamaterials 全3讲 主讲-陈延峰 视频教程
-date: Wed Jan 15 2020 13:12:48 GMT+0800 (CST)    
+date: Sun Jan 19 2020 13:09:48 GMT+0800 (CST)    
 categories: baidu
 ---
 

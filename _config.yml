@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: JasonThink's Blog
+title: Baidu Wang Pan
 subtitle:
-description: 胡建东的个人站点
-author: JasonThink
-language: zh-Hans
+description: baidupan
+author: baidupan
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://hujiandong.com/
+url: http://jasonslave.github.io
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
@@ -80,7 +80,7 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jasonim/jasonim.github.io.git
+  repo: https://github.com/jasonslave/jasonslave.github.io.git
   branch: master
 
 # Duoshuo
@@ -88,7 +88,7 @@ deploy:
 
 # Social links
 social:
-  GitHub: https://github.com/jasonim
+  GitHub: https://github.com/jasonslave
 
 # 百度分析ID
 baidu_analytics: bce6c38410e11063877362ffaf8f9bdb
@@ -121,7 +121,7 @@ weixin:
 
 # Wechat Subscriber
 wechat_subscriber:
-  enabled: true
+  enabled: false
   qcode: /wechat-qcode.jpg
   description: 欢迎您扫一扫上面的微信公众号，订阅我的博客！
 
